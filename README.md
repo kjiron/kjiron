@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kevinjiron/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,7 +27,7 @@ I am a Electronics Engineer from Costa Rica :costa_rica:
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<div>
+<div id="tools_icons" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" 
   alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" 
